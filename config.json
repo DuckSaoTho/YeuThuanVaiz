@@ -1,0 +1,176 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "solo.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Một Con Vịt Xòe Ra Hai Bát Tiết Canh",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "",
+        "100081018072290",
+        "1049943292",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.9",
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "sim2": {
+        "APIKEY": "Meew_PkP8Z6GJiCeKZgy4F9wKhngZtZl4Z"
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "hép": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "img": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "linkword": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 30,
+        "unsendMessageAfter": 5
+    },
+    "rankup": {
+        "autoUnsend": "true",
+        "unsendMessageAfter": 10
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "shortlink": {
+        "bitlyAPI": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "sim": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc",
+        "apikey": "Meew_PkP8Z6GJiCeKZgy4F9wKhngZtZl4Z"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBIG0RPPDfqZkYi49pyi3AncNDy2YT9Vmw",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub",
+        "ManhG_KEY": "mzkVip_9B4510479C899"
+    },
+    "slap": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "sortword": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "teach": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "tiktok": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc",
+        "API_KEY": "mzkFree_ZKU6MCRSZXNQF9HLRE7"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBIG0RPPDfqZkYi49pyi3AncNDy2YT9Vmw"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "covid": {
+        "APIKEY": ""
+    },
+    "ghep": {
+        "cooldownTime": 300000
+    },
+    "ghéop": {
+        "cooldownTime": 300000
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "igvd": {
+        "API_KEY": "mzkFree_ZKU6MCRSZXNQF9HLRE7"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    }
+}
